@@ -1,1 +1,3 @@
 # QuantumThings!
+
+About QT
